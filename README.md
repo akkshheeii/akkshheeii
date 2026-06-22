@@ -36,24 +36,20 @@ and figuring things out as I go....
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🎙 Athena AI Assistant</h3>
-
+<h3 align="center">Voice Recognition Commands</h3>
+ 
 <div align="center">
 <img src="https://img.shields.io/badge/Status-Active-4ade80?style=flat-square&labelColor=0d1117"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Python-Tkinter-93F8F5?style=flat-square&labelColor=0d1117"/>
 </div>
 
 <br/>
 
-> Voice-controlled desktop assistant. Speak a command — it responds, executes, and notifies.
 
 ```
-🎙  Voice Recognition
-🌐  Browser Automation
-📁  File Operations
-⚙️  System Commands
-💬  Text-to-Speech
+A simple starting Python program to perform specific operation
+based on commands passed by the user like opening Youtube ,
+Google, Calculator and Locking Screen and more
 ```
 
 <div align="center">
