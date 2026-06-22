@@ -27,11 +27,9 @@ and figuring things out as I go....
 <img src="https://skillicons.dev/icons?i=python,flask,sqlite,html,css,js,git,github,vscode&theme=dark&perline=9"/>
 
 </div>
----
-
-## 🚀 Featured Projects
-
 <br/>
+
+### `> Persoal Projects`
 
 <div align="center">
 <table>
@@ -99,20 +97,9 @@ and figuring things out as I go....
 
 <br/>
 
----
-
-## 🛠 Tech Stack
-
-<br/>
 
 <br/><br/>
 
-![Python](https://img.shields.io/badge/Python-Expert-93F8F5?style=flat-square&labelColor=0d1117&logo=python&logoColor=93F8F5)
-![Flask](https://img.shields.io/badge/Flask-Intermediate-93F8F5?style=flat-square&labelColor=0d1117&logo=flask&logoColor=93F8F5)
-![AI/ML](https://img.shields.io/badge/AI_/_ML-Learning-fbbf24?style=flat-square&labelColor=0d1117&logo=openai&logoColor=fbbf24)
-![NLP](https://img.shields.io/badge/NLP-Learning-fbbf24?style=flat-square&labelColor=0d1117&logo=google&logoColor=fbbf24)
-
-</div>
 
 <br/>
 
@@ -148,7 +135,7 @@ and figuring things out as I go....
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=93F8F5&line=93F8F5&point=ffffff&area=true&area_color=93F8F5&hide_border=true)](https://github.com/YOUR_USERNAME)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=93F8F5&line=93F8F5&point=ffffff&area=true&area_color=93F8F5&hide_border=true)](https://github.com/akkshheeii)
 
 </div>
 
