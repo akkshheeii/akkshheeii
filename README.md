@@ -8,52 +8,25 @@
 
 <br/>
 
-<p align="right">
-  <svg width="200" height="210" xmlns="http://www.w3.org/2000/svg">
-    <clipPath id="round">
-      <rect width="200" height="200" rx="10" ry="10"/>
-    </clipPath>
-    <image href="https://i.pinimg.com/736x/47/37/44/473744d11ee25c15e3da8e96359802a7.jpg" width="200" height="200" clip-path="url(#round)"/>
-  </svg>
-</p>
+<img src="https://media.discordapp.net/attachments/833303778706980887/1518583348627378277/pfp_1-modified.png?ex=6a3a7274&is=6a3920f4&hm=e42939f28ba53294acfc462c7da4b10668bf88b6fa089391bf0e2357934ac6d8&=&format=webp&quality=lossless&width=768&height=768" width="200" align="right"/>
 
 <br/>
 
 ### `> Just About Me`
 
 ```yaml
-Name    : Akshay A M
-Role    : Developer & Builder
-Based   : Kerala, India 🇮🇳
-Status  : Always building something...
+Hey, I'm Akshay — based in Kerala, India.
+I spend most of my time programming, developing stuff,
+and figuring things out as I go....
 ```
 
 <br/>
 
-🚀 &nbsp;**Building** &nbsp;→&nbsp; `Athena AI Assistant` &nbsp;·&nbsp; `Doodle It`
+<div align="center">
 
-🤖 &nbsp;**Focus** &nbsp;→&nbsp; `AI` &nbsp;·&nbsp; `Automation` &nbsp;·&nbsp; `System Design`
+<img src="https://skillicons.dev/icons?i=python,flask,sqlite,html,css,js,git,github,vscode&theme=dark&perline=9"/>
 
-📚 &nbsp;**Learning** &nbsp;→&nbsp; `NLP` &nbsp;·&nbsp; `AI Agents`
-
-🎯 &nbsp;**Goal** &nbsp;→&nbsp; Build products people actually use.
-
-<br clear="right"/>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=93F8F5&center=true&vCenter=true&width=600&lines=Voice+AI+%26+Automation+Engineer+%F0%9F%8E%99;Python+%7C+Flask+%7C+SQLite+%7C+AI;Building+Athena+%E2%80%94+My+Personal+AI+Assistant;Open+to+Collabs+%26+Cool+Ideas+%E2%9C%A8" alt="Typing SVG" />
-  </a>
-</p>
-
-<br/>
-
+</div>
 ---
 
 ## 🚀 Featured Projects
@@ -131,10 +104,6 @@ Status  : Always building something...
 ## 🛠 Tech Stack
 
 <br/>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,flask,sqlite,html,css,js,git,github,vscode&theme=dark&perline=9"/>
 
 <br/><br/>
 
