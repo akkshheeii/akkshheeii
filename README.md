@@ -99,114 +99,26 @@ Google, Calculator and Locking Screen and more
 
 <br/>
 
----
 
-## 📊 GitHub Analytics
+<br/>
+
+
+
+### `> Connect With Me`
 
 <br/>
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=93F8F5&icon_color=93F8F5&text_color=e8e8ec"/>
-&nbsp;&nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=93F8F5&text_color=e8e8ec"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=transparent&hide_border=true&stroke=93F8F5&ring=93F8F5&fire=fbbf24&currStreakLabel=e8e8ec&sideLabels=e8e8ec&dates=555&background=0d1117"/>
-
-</div>
-
-<br/>
-
----
-
-## 📈 Activity Graph
-
-<br/>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=93F8F5&line=93F8F5&point=ffffff&area=true&area_color=93F8F5&hide_border=true)](https://github.com/akkshheeii)
-
-</div>
-
-<br/>
-
----
-
-## 🏆 Achievements
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=8"/>
-
-</div>
-
-<br/>
-
----
-
-## 🎯 Current Goals
-
-<br/>
-
-```python
-goals_2025 = [
-    "✅ Build a floating AI assistant (Athena)",
-    "🔄 Learn System Design fundamentals",
-    "⬜ Contribute to Open Source",
-    "⬜ Ship a product real people use",
-    "⬜ Go deeper into NLP & AI Agents",
-]
-
-for goal in goals_2025:
-    print(goal)
-```
-
-<br/>
-
----
-
-## 🐍 Contribution Snake
-
-<br/>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
-
-<br/>
-
----
-
-## 📫 Connect With Me
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/akkshheeii">
   <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=93F8F5"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/akkshheeii">
   <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=93F8F5"/>
 </a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:akshayajith127@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=93F8F5"/>
 </a>
 
@@ -214,13 +126,9 @@ for goal in goals_2025:
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&style=for-the-badge&color=0d1117&labelColor=0d1117&logo=eye&logoColor=93F8F5"/>
+<img src="https://komarev.com/ghpvc/?username=akkshheeii&label=Profile+Views&style=for-the-badge&color=0d1117&labelColor=0d1117&logo=eye&logoColor=93F8F5"/>
 
 <br/><br/>
 
