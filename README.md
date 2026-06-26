@@ -44,15 +44,10 @@ and figuring things out as I go....
   <div align="center" style="background:#161b22; border-radius:12px; border:1px solid #93F8F5; padding:16px 20px; margin-bottom:12px;">
  <h6>Upload &nbsp;•&nbsp;Share &nbsp;•&nbsp;Search &nbsp;•&nbsp;Analytics</h6>  
  
-![Flask](https://img.shields.io/badge/Flask-111111?style=flat-square&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-111111?style=flat-square&logo=sqlite&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-111111?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-111111?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white)
+ ![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)
  
 </div>
 </h6>
-<br/>
 
 
 ```
