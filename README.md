@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://media.discordapp.net/attachments/833303778706980887/1518583348627378277/pfp_1-modified.png?ex=6a3a7274&is=6a3920f4&hm=e42939f28ba53294acfc462c7da4b10668bf88b6fa089391bf0e2357934ac6d8&=&format=webp&quality=lossless&width=768&height=768" width="200" align="right"/>
+<img src="https://media.discordapp.net/attachments/1178701211394916493/1374043809356316742/pfp.jpeg?ex=6a3fea04&is=6a3e9884&hm=a6d1c6bc86a653b9cf6091ef442d1e8f59c9ffbbf706381ca6f07cbbb78a50e7&=&format=webp&width=927&height=927" width="200" align="right"/>
 
 <br/>
 
@@ -36,13 +36,15 @@ and figuring things out as I go....
 <tr>
 <td width="50%" valign="top">
 
+  <!--1-->
+  
 <h3 align="center">
 <img src="https://img.shields.io/badge/VOICE_RECOGNITION_COMMAND-000000?style=for-the-badge&logoColor=38BDF8"/>
 </h3>
 
 <h6>
   <div align="center" style="background:#161b22; border-radius:12px; border:1px solid #93F8F5; padding:16px 20px; margin-bottom:12px;">
- <h6>Upload &nbsp;•&nbsp;Share &nbsp;•&nbsp;Search &nbsp;•&nbsp;Analytics</h6>  
+ <h6>Realtime &nbsp;•&nbsp;Audio Recognition &nbsp;•&nbsp;Voice to Text &nbsp;•&nbsp;Operations</h6>  
  
  ![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)
  
@@ -56,6 +58,7 @@ specific operation based on commands passed by
 the user like opening Youtube ,Google,
 Calculator and Locking Screen and more
 ```
+<!--2-->
 
 <div align="center">
 <a href="#">
@@ -90,6 +93,8 @@ Safely and Securely With interactive Front-End
 and Using database
 ```
 
+<!--3-->
+
 <div align="center">
 <a href="#">
 <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=93F8F5"/>
@@ -98,19 +103,144 @@ and Using database
 
 </td>
 </tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">
+<img src="https://img.shields.io/badge/EMERGENCY_AUDIO_ROLLING_CAPTURE-FFD700?style=for-the-badge&logoColor=38BDF8"/>
+</h3>
+
+<h6>
+  <div align="center" style="background:#161b22; border-radius:12px; border:1px solid #93F8F5; padding:16px 20px; margin-bottom:12px;">
+ <h6>Realtime &nbsp;•&nbsp;Audio Rolling &nbsp;•&nbsp;Buffering &nbsp;•&nbsp;Dashcam Model</h6>  
+ 
+ ![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)
+ 
+</div>
+</h6>
+
+
+```
+A  Python program to Buffer Audio & Monitor
+it. When Any loud noise or sound is
+detected the Program records the Audio 10s
+Ago and 10s Later
+```
+
+<!--4-->
+
+<div align="center">
+<a href="#">
+<img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=93F8F5"/>
+</a>
+</div>
+
+</td>
+<td width="50%" valign="top">
+<p align="center">
+
+</p>
+<h3 align="center"><img src="https://img.shields.io/badge/FILE_ORGANIZER-000000?style=for-the-badge&labelColor=111111"/></h3>
+
+<h6>
+  <div align="center" style="background:#161b22; border-radius:12px; border:1px solid #93F8F5; padding:16px 20px; margin-bottom:12px;">
+ <h6>Select Directory &nbsp;•&nbsp;Create Folders &nbsp;•&nbsp;Organize &nbsp;•&nbsp;Statistics</h6>  
+ 
+ ![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)
+ 
+</div>
+</h6>
+
+```
+A Python program to smartly Organize our daily
+Life messy file directories.It Organizes the
+Files into Their Categories Automatically And
+Display the End results 
+```
+
+<!--5-->
+
+<div align="center">
+<a href="#">
+<img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=93F8F5"/>
+</a>
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">
+<img src="https://img.shields.io/badge/VOICE_RECOGNITION_COMMAND-000000?style=for-the-badge&logoColor=38BDF8"/>
+</h3>
+
+<h6>
+  <div align="center" style="background:#161b22; border-radius:12px; border:1px solid #93F8F5; padding:16px 20px; margin-bottom:12px;">
+ <h6>Realtime &nbsp;•&nbsp;Audio Recognition &nbsp;•&nbsp;Voice to Text &nbsp;•&nbsp;Operations</h6>  
+ 
+ ![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)
+ 
+</div>
+</h6>
+
+
+```
+A simple starting Python program to perform
+specific operation based on commands passed by
+the user like opening Youtube ,Google,
+Calculator and Locking Screen and more
+```
+
+<div align="center">
+<a href="#">
+<img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=93F8F5"/>
+</a>
+</div>
+
+</td>
+<td width="50%" valign="top">
+<p align="center">
+  
+<!--6-->
+
+</p>
+<h3 align="center"><img src="https://img.shields.io/badge/LOCAL_CLOUD_SYSTEM-FFD700?style=for-the-badge&labelColor=111111"/></h3>
+
+<h6>
+  <div align="center" style="background:#161b22; border-radius:12px; border:1px solid #93F8F5; padding:16px 20px; margin-bottom:12px;">
+ <h6>Upload &nbsp;•&nbsp;Share &nbsp;•&nbsp;Search &nbsp;•&nbsp;Analytics</h6>  
+ 
+![Flask](https://img.shields.io/badge/Flask-111111?style=flat-square&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-111111?style=flat-square&logo=sqlite&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-111111?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-111111?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white)
+ 
+</div>
+</h6>
+
+```
+A Small Cloud System Full stack program tostore
+[Upload], Restore [Download], Share users files
+Safely and Securely With interactive Front-End
+and Using database
+```
+
+<div align="center">
+<a href="#">
+<img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=93F8F5"/>
+</a>
+</div>
+
+</td>
+</tr>
+
 </table>
 </div>
 
 <br/>
-
-
-<br/><br/>
-
-
-<br/>
-
-
-
 
 ### `> Connect With Me`
 
