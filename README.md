@@ -36,20 +36,30 @@ and figuring things out as I go....
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">Voice Recognition Commands</h3>
- 
-<div align="center">
-<img src="https://img.shields.io/badge/Status-Active-4ade80?style=flat-square&labelColor=0d1117"/>
-&nbsp;
-</div>
+<h3 align="center">
+<img src="https://img.shields.io/badge/VOICE_RECOGNITION_COMMAND-000000?style=for-the-badge&logoColor=38BDF8"/>
+</h3>
 
+<h6>
+  <div align="center" style="background:#161b22; border-radius:12px; border:1px solid #93F8F5; padding:16px 20px; margin-bottom:12px;">
+ <h6>Upload &nbsp;•&nbsp;Share &nbsp;•&nbsp;Search &nbsp;•&nbsp;Analytics</h6>  
+ 
+![Flask](https://img.shields.io/badge/Flask-111111?style=flat-square&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-111111?style=flat-square&logo=sqlite&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-111111?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-111111?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white)
+ 
+</div>
+</h6>
 <br/>
 
 
 ```
-A simple starting Python program to perform specific operation
-based on commands passed by the user like opening Youtube ,
-Google, Calculator and Locking Screen and more
+A simple starting Python program to perform
+specific operation based on commands passed by
+the user like opening Youtube ,Google,
+Calculator and Locking Screen and more
 ```
 
 <div align="center">
@@ -61,20 +71,28 @@ Google, Calculator and Locking Screen and more
 </td>
 <td width="50%" valign="top">
 <p align="center">
-<img src="https://img.shields.io/badge/⭐_FEATURED_PROJECT-FFD700?style=for-the-badge&labelColor=111111"/>
-</p>
-<h3 align="center">Cloud System</h3>
-<div align="center">
-<img src="https://img.shields.io/badge/Status-Building-fbbf24?style=flat-square&labelColor=0d1117"/>
-&nbsp;
-</div>
 
-<br/>
+</p>
+<h3 align="center"><img src="https://img.shields.io/badge/LOCAL_CLOUD_SYSTEM-FFD700?style=for-the-badge&labelColor=111111"/></h3>
+
+<h6>
+  <div align="center" style="background:#161b22; border-radius:12px; border:1px solid #93F8F5; padding:16px 20px; margin-bottom:12px;">
+ <h6>Upload &nbsp;•&nbsp;Share &nbsp;•&nbsp;Search &nbsp;•&nbsp;Analytics</h6>  
+ 
+![Flask](https://img.shields.io/badge/Flask-111111?style=flat-square&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-111111?style=flat-square&logo=sqlite&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-111111?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-111111?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white)
+ 
+</div>
+</h6>
 
 ```
-A Small Cloud System Full stack program tostore [Upload],
- Restore [Download], Share users files Safely and
-Securely With interactive Front-End and Using database
+A Small Cloud System Full stack program tostore
+[Upload], Restore [Download], Share users files
+Safely and Securely With interactive Front-End
+and Using database
 ```
 
 <div align="center">
