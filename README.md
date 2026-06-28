@@ -205,11 +205,11 @@ more
 <!--6-->
 
 </p>
-<h3 align="center"><img src="https://img.shields.io/badge/LOCAL_CLOUD_SYSTEM-FFD700?style=for-the-badge&labelColor=111111"/></h3>
+<h3 align="center"><img src="https://img.shields.io/badge/CLIPBOARD_MANAGER-FFD700?style=for-the-badge&labelColor=111111"/></h3>
 
 <h6>
   <div align="center" style="background:#161b22; border-radius:12px; border:1px solid #93F8F5; padding:16px 20px; margin-bottom:12px;">
- <h6>Upload &nbsp;•&nbsp;Share &nbsp;•&nbsp;Search &nbsp;•&nbsp;Analytics</h6>  
+ <h6>Monitors &nbsp;•&nbsp;Record &nbsp;•&nbsp;Copy &nbsp;•&nbsp;Paste</h6>  
  
 ![Flask](https://img.shields.io/badge/Flask-111111?style=flat-square&logo=flask&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-111111?style=flat-square&logo=sqlite&logoColor=white)
@@ -221,10 +221,10 @@ more
 </h6>
 
 ```
-A Small Cloud System Full stack program tostore
-[Upload], Restore [Download], Share users files
-Safely and Securely With interactive Front-End
-and Using database
+A Very usefull Program to ease Daily hustle,
+Not to stuck with a single line , A Program
+To Monitor Record and Use Clipboard in a
+Way it was supposed to be
 ```
 
 <div align="center">
