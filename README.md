@@ -228,7 +228,7 @@ Way it was supposed to be
 ```
 
 <div align="center">
-<a href="#">
+<a href="https://github.com/akkshheeii/ClipBoard/">
 <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=93F8F5"/>
 </a>
 </div>
